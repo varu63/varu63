@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **varunrajput8077@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** my skills
-- 🌱 **I’m currently learning:** SpringBoot
+- 🌱 **I’m currently learning:** Next.js
 - 👯 **I’m looking to collaborate on:** Collge webpage with my friend
 - 🤔 **I’m looking for help with:** Grow myself
 - 💬 **Ask me about:** Collaboration, Tech Support
