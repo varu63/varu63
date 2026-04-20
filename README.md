@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm Varun Tomar
 **A passionate Backend Engineer || Software Engineer **
 
-Email Me 👉 ✉️ **varunrajput8077@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **varun.tomar.cs@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** my skills
 - 🌱 **I’m currently learning:** Next.js
-- 👯 **I’m looking to collaborate on:** Collge webpage with my friend
+- 👯 **I’m looking to collaborate on:** Personal project
 - 🤔 **I’m looking for help with:** Grow myself
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** varunrajput8077@gmail.com
+- 📫 **How to reach me:** varun.tomar.cs@gmail.com
 - 😄 **Pronouns:** varun
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
